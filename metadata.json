@@ -1,0 +1,6 @@
+{
+  "name": "파이어웍스 마스터",
+  "description": "A game where you craft and launch fireworks to match given situations, with AI-powered evaluation. Select materials, craft your firework, and aim for the highest score!",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

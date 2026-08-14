@@ -3,7 +3,9 @@
 
 "파이어웍스 마스터"는 플레이어가 주어진 상황에 맞춰 다양한 재료를 조합하여 불꽃을 제작하고 발사하는 게임입니다. AI가 플레이어의 불꽃을 평가하며, 더 높은 점수를 얻기 위해 창의적인 조합을 시도해보세요!
 
-실행 주소 : https://dev-canvas-pi.vercel.app/
+라이브 데모 : https://sigco3111.github.io/FireworksMaster/
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 GitHub Pages로 이관되었습니다 (2026-08). 과거 Vercel alias는 더 이상 유효하지 않으므로 위 Pages URL을 사용해 주세요.
 
 ## 게임 방법
 
